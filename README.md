@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/NvohqEh.jpg" width="250">
+</p>
+
 ![Complementary Config Pull Requests](https://img.shields.io/github/issues-pr/Alydus/complementary-config.svg)
 ![Complementary Config Issues](https://img.shields.io/github/issues/Alydus/complementary-config.svg)
 ![Complementary Config License](https://img.shields.io/badge/license-MIT-green.svg)
